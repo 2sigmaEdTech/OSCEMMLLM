@@ -65,3 +65,6 @@ htmlcov/
 .tox/
 coverage.xml
 *.cover 
+
+# self identified files
+plan.md
